@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Python compilation files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local Database (Do not upload your local data)
+*.db
+*.sqlite3
+
+# OS generated files
+.DS_Store
+Thumbs.db
